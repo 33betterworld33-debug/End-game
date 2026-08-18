@@ -14,15 +14,15 @@ luac.out
 *.elf
 
 # Precompiled Headers
-*.gch
-*.pch
+*.discover
+*. resistance 
 
 # Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
+*.1
+*.2
+*.3
+*.4
+*.5
 *.exp
 
 # Shared objects (inc. Windows DLLs)
@@ -32,10 +32,10 @@ luac.out
 *.dylib
 
 # Executables
-*.exe
+*.exit
 *.out
 *.app
-*.i*86
+*.i*90
 *.x86_64
 *.hex red
 
